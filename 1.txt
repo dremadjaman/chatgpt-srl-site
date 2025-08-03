@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <title>منصة دعم التعلم المنظم ذاتياً باستخدام ChatGPT</title>
+  <style>
+    body {
+      font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #f5f7fa;
+      color: #333;
+      margin: 20px;
+      line-height: 1.6;
+    }
+    header, section, footer {
+      background: #fff;
+      padding: 20px;
+      margin-bottom: 20px;
+      border-radius: 8px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    }
+    h1, h2 {
+      color: #005a9c;
+    }
+    a {
+      color: #007acc;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    ul {
+      padding-right: 20px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>مرحباً بكم في منصة دعم التعلم المنظم ذاتياً باستخدام ChatGPT</h1>
+    <p>تهدف هذه المنصة إلى مساعدتك على استخدام ChatGPT بفعالية لتعزيز مهارات التعلم المنظم ذاتياً، من خلال توفير دليل الاستخدام، موارد تعليمية، وأدوات لتقييم تقدمك.</p>
+  </header>
+  <section>
+    <h2>دليل الاستخدام</h2>
+    <ul>
+      <li>التسجيل والدخول إلى ChatGPT عبر <a href="https://chat.openai.com" target="_blank" rel="noopener noreferrer">الرابط الرسمي</a></li>
+      <li>خطوات واضحة لدعم كل مرحلة من مراحل التعلم المنظم ذاتياً:
+        <ul>
+          <li>التخطيط: كيفية وضع خطة دراسية باستخدام ChatGPT.</li>
+          <li>الأداء: استخدام ChatGPT لفهم المواد وحل المشكلات.</li>
+          <li>التقييم: كتابة تقارير ذاتية بمساعدة ChatGPT.</li>
+        </ul>
+      </li>
+    </ul>
+  </section>
+  <section>
+    <h2>موارد إضافية</h2>
+    <ul>
+      <li><a href="#" target="_blank" rel="noopener noreferrer">فيديو تعريفي عن التعلم المنظم ذاتياً</a></li>
+      <li><a href="#" target="_blank" rel="noopener noreferrer">مقالات وأبحاث مختارة حول SRL وChatGPT</a></li>
+      <li><a href="#" target="_blank" rel="noopener noreferrer">نماذج خطط دراسية قابلة للتعديل</a></li>
+    </ul>
+  </section>
+  <section>
+    <h2>تقرير التقييم الذاتي</h2>
+    <p>يرجى تعبئة <a href="https://docs.google.com/forms/d/1y9ztTv_mFkLC42xKCKPTvyL5Zyx9mP6nGm1P_w-djPM/copy" target="_blank" rel="noopener noreferrer">نموذج التقرير الذاتي</a> لمساعدتنا في تحسين الخدمة ودعمك بشكل أفضل.</p>
+  </section>
+  <footer>
+    <h2>اتصل بنا</h2>
+    <p>هل لديك أسئلة أو تحتاج مساعدة؟ تواصل معنا عبر البريد الإلكتروني: <a href="mailto:support@universitydomain.edu">support@universitydomain.edu</a></p>
+  </footer>
+</body>
+</html>
